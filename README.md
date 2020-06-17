@@ -5,7 +5,7 @@
 따라해본 타임시리즈 디노이징 연습
 
 수정필요사항
-Look ahead bias 수정, Train data와 valid 사이에 embargo 넣기
+Train data와 valid 사이 분리할때 문제점이나 bias 생기는지 살펴보기, embargo 넣기
 
 
 ![875358eb-f6d2-4730-b285-fcf27788cd5d (1)](https://user-images.githubusercontent.com/40931326/83939561-f87f5f80-a818-11ea-958d-0c4f7952f49f.png)
